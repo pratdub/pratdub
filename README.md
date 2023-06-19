@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRATEEK DUBEY</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">As a final year computer science student, I have gained proficiency in JavaScript, HTML, CSS, Flutter, Java, and C++. I have a passion for coding and technology, and I actively seek solutions to problems encountered throughout my studies. I am skilled in developing dynamic web applications, designing user-friendly interfaces, creating cross-platform mobile apps, and building robust software systems. I stay updated with emerging technologies and look forward to applying my knowledge in real-world scenarios. My dedication and enthusiasm drive me to succeed as a computer scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratdub&label=Profile%20views&color=0e75b6&style=flat" alt="pratdub" /> </p>
